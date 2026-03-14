@@ -29,7 +29,7 @@ const site = {
 
   // --- Homepage Hero ---
   hero: {
-    greeting: "👋 Hello, I'm Breeze",
+    greeting: "👋 こんにちは",
     // Supports HTML. Use <span class="font-medium text-foreground underline decoration-primary/30"> to highlight keywords
     description:
       'A minimal personal website theme built with <span class="font-medium text-foreground underline decoration-primary/30">Astro</span> and <span class="font-medium text-foreground underline decoration-primary/30">Tailwind CSS</span>.',
