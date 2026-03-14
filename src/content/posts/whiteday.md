@@ -1,8 +1,8 @@
 ---
 title: whiteday
 createdAt: 2026-03-14
-category: Life
-tags: [Astro]
+category: life
+tags: [astro]
 summary: This is a draft post that won't appear in production builds.
 ---
 
