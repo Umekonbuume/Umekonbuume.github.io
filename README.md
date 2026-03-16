@@ -31,7 +31,7 @@ docker compose up
 各ファイルを編集すると、Webページ側に反映される。
 
 ### Webページのデプロイ
-- Github Actionでデプロイ
+- GitHub Actionsでデプロイ
     - Push時に自動でデプロイしてくれる
 
 # Breeze
