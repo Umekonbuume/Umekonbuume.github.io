@@ -99,9 +99,9 @@ const site = {
   // Customize these values to change the text displayed on pages
   labels: {
     postsTitle: "日記",
-    postsDescription: "Notes, thoughts, and technical musings",
+    postsDescription: "日々の記録や考えを綴る場所。",
     projectsTitle: "写真",
-    projectsDescription: "Small tools built for fun or to solve real problems.",
+    projectsDescription: "撮れた良い写真を共有する場所。",
     friendsTitle: "Friends",
     friendsDescription: "Like-minded folks around the web.",
     toolsTitle: "Stack",
