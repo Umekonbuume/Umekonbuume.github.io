@@ -6,7 +6,7 @@
  * All colors are based on OKLch color space with a consistent hue value.
  * To change the entire color palette, find-and-replace the hue number:
  *
- *   Current hue: 250 (ocean blue)
+ *   Current hue: 200 (Teal)
  *
  * Preset hue values:
  *   165 = Sage Green (default)
@@ -49,7 +49,7 @@
   --card: oklch(0.18 0.02 165)
   --card-foreground: oklch(23.029% 0.01669 264.189);
 
-  --primary: oklch(31.89% 0.14027 261.29);
+  --primary: oklch(46.945% 0.1048 261.956);
   --primary-foreground: oklch(0.1 0.02 165);
 
 
