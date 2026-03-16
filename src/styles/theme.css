@@ -20,8 +20,8 @@
 
 :root {
   /* --- Light Mode: Sage Mist --- */
-  --background: oklch(0.98 0.008 165);
-  --foreground: oklch(0.25 0.02 165);
+  --background: oklch(51.967% 0.18799 266.854);
+  --foreground: oklch(34.664% 0.07234 252.454);
 
   --card: oklch(0.99 0.005 165);
   --card-foreground: oklch(0.25 0.02 165);
@@ -43,9 +43,9 @@
 
 .dark {
   /* --- Dark Mode: Deep Moss --- */
-  --background: oklch(0.14 0.02 165);
-  --foreground: oklch(0.92 0.005 165);
-
+  --background: oklch(51.967% 0.18799 266.854);
+  --foreground: oklch(34.664% 0.07234 252.454);
+  
   --card: oklch(0.18 0.02 165);
   --card-foreground: oklch(0.88 0.01 165);
 
