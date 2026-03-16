@@ -18,7 +18,8 @@ open -a OrbStack
 ```
 
 ```
-docker ps（←を実行してエラーが出なければDockerのインストール完了）
+# 実行してエラーが出なければDockerのインストール完了
+docker ps
 ```
 
 ```
