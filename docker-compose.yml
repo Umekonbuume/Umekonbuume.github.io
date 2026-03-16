@@ -1,0 +1,14 @@
+services:
+  astro:
+    build: .
+    image: astro-builder:latest
+    user: "${UID}:${GID}"
+    ports:
+      - "127.0.0.1:4321:4321"
+    environment:
+      - PORT=4321
+      - CI=true
+    volumes:
+      - .:/app
+      - /app/node_modules
+    command: sh -c "pnpm install --frozen-lockfile && pnpm exec astro dev --host 0.0.0.0 --port $$PORT"
