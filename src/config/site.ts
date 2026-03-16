@@ -100,7 +100,7 @@ const site = {
   labels: {
     postsTitle: "日記",
     postsDescription: "Notes, thoughts, and technical musings",
-    projectsTitle: "Projects",
+    projectsTitle: "写真",
     projectsDescription: "Small tools built for fun or to solve real problems.",
     friendsTitle: "Friends",
     friendsDescription: "Like-minded folks around the web.",
