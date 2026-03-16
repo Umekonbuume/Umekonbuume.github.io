@@ -98,7 +98,7 @@ const site = {
   // --- UI Labels ---
   // Customize these values to change the text displayed on pages
   labels: {
-    postsTitle: "Writing",
+    postsTitle: "日記",
     postsDescription: "Notes, thoughts, and technical musings",
     projectsTitle: "Projects",
     projectsDescription: "Small tools built for fun or to solve real problems.",
