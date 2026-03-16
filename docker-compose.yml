@@ -2,6 +2,7 @@ services:
   astro:
     build: .
     image: astro-builder:latest
+    user: "${UID}:${GID}"
     ports:
       - "127.0.0.1:4321:4321"
     environment:
