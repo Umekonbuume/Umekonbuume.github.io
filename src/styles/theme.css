@@ -46,15 +46,15 @@
   --background: oklch(0% 0 0);
   --foreground: oklch(72.093% 0.05386 250.391);
 
-  --card: oklch(0.99 0.005 165);
+  --card: oklch(0.18 0.02 165)
   --card-foreground: oklch(23.029% 0.01669 264.189);
 
   --primary: oklch(31.89% 0.14027 261.29);
-  --primary-foreground: oklch(0.98 0.01 165);
+  --primary-foreground: oklch(0.1 0.02 165);
 
 
   --muted: oklch(0.28 0.02 160);
-  --muted-foreground: oklch(0.75 0.015 165);
+  --muted-foreground: oklch(97.524% 0.01398 162.911);
 
   --border: oklch(0.26 0.02 165);
   --shadow-main: 0 30px 60px -15px oklch(0 0 0 / 0.5);
