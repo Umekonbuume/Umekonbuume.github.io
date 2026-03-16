@@ -11,8 +11,8 @@ RUN corepack enable && pnpm install --frozen-lockfile
 # Copy project files
 COPY . .
 
-ENV PORT=3000
-EXPOSE 3000
+ENV PORT=4321
+EXPOSE 4321
 
 # Default: build and preview (bind to 0.0.0.0 so host can access)
 CMD ["sh", "-c", "pnpm run build && pnpm run preview -- --host 0.0.0.0 --port $PORT"]
