@@ -1,3 +1,39 @@
+# Umekonbuume.github.io
+
+https://Umekonbuume.github.io
+
+---
+
+## 手順
+### ローカル環境での編集
+
+Dockerを利用してローカル環境で編集を行う。
+
+VSCodeのターミナルで以下のコマンドを実行。
+
+```
+# Dockerを使うためにorbstackをインストール
+brew install orbstack
+open -a OrbStack
+```
+
+```
+docker ps（←を実行してエラーが出なければDockerのインストール完了）
+```
+
+```
+# Dockerを用いたローカル編集環境の構築
+docker compose up
+```
+
+ここで、ブラウザから http://localhost:4321 にアクセスすると、Webページが見える。
+
+各ファイルを編集すると、Webページ側に反映される。
+
+### Webページのデプロイ
+- Github Actionでデプロイ
+    - Push時に自動でデプロイしてくれる
+
 # Breeze
 
 A minimal, clean Astro theme for personal websites and blogs.
