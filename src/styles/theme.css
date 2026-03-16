@@ -52,11 +52,12 @@
   --primary: oklch(31.89% 0.14027 261.29);
   --primary-foreground: oklch(0.98 0.01 165);
 
-  --muted: oklch(92.422% 0.01086 286.049);
-  --muted-foreground: oklch(33.61% 0.01896 264.301);
 
-  --border: oklch(0.92 0.01 165);
-  --shadow-main: 0 10px 40px -10px oklch(0.3 0.05 165 / 0.05);
+  --muted: oklch(0.28 0.02 160);
+  --muted-foreground: oklch(0.75 0.015 165);
+
+  --border: oklch(0.26 0.02 165);
+  --shadow-main: 0 30px 60px -15px oklch(0 0 0 / 0.5);
 
   --callout-info: oklch(0.75 0.12 250);
   --callout-warning: oklch(0.8 0.15 85);
