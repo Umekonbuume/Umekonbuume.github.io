@@ -105,8 +105,7 @@ const site = {
     friendsTitle: "Friends",
     friendsDescription: "Like-minded folks around the web.",
     toolsTitle: "Stack",
-    aboutTitle: "About",
-    aboutDescription: "About this site and its author",
+    
     backToPosts: "Back to posts",
     goHome: "Go Home",
     notFoundTitle: "Page not found",
