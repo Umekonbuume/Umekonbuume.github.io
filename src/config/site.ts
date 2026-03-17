@@ -16,7 +16,7 @@ const site = {
   navigation: [
     { name: "Home", subtitle: "Index", href: "/" },
     { name: "Writing", subtitle: "Blog", href: "/posts" },
-    { name: "collection", subtitle: "Photo", href: "/projects" },
+    { name: "Collection", subtitle: "Photo", href: "/projects" },
     { name: "Friends", subtitle: "Links", href: "/friends" },
     { name: "About", subtitle: "Me", href: "/about" },
   ],
@@ -103,7 +103,7 @@ const site = {
     postsDescription: "日々の記録や考えを綴る場所。",
     projectsTitle: "写真",
     projectsDescription: "撮れた良い写真を共有する場所。",
-    friendsTitle: "Friends",
+    friendsTitle: "ーー",
     friendsDescription: "Like-minded folks around the web.",
     toolsTitle: "Stack",
     aboutTitle: "About",

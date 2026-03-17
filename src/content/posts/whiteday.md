@@ -1,13 +1,10 @@
 ---
 title: whiteday
-createdAt: 2026-03-14
-category: life
+createdAt: 2026-03-14category: events
 tags: [astro]
-summary: This is a draft post that won't appear in production builds.
-draft: true
+summary: 要約？
+draft: false
 ---
 
-あああ
-
-This is a draft post. It will only be visible in development mode.
+チョコレート美味しい。
 
