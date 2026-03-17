@@ -20,7 +20,7 @@
 
 :root {
   /* --- Light Mode: Sage Mist --- */
-  --background: oklch(0% 0 0);
+  --background: oklch(72.093% 0.05386 250.391);
   --foreground: oklch(72.093% 0.05386 250.391);
 
   --card: oklch(0.99 0.005 165);
