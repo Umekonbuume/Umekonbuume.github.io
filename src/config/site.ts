@@ -1,7 +1,7 @@
 const site = {
   // --- Site Metadata ---
   meta: {
-    title: "Breeze",
+    title: "Umekonbuume's Personal Site",
     description: "A minimal Astro theme for personal websites",
     author: "Your Name",
     logo: "/logo.svg",
@@ -29,7 +29,7 @@ const site = {
 
   // --- Homepage Hero ---
   hero: {
-    greeting: "👋 こんにちは",
+    greeting: "greeting",
     // Supports HTML. Use <span class="font-medium text-foreground underline decoration-primary/30"> to highlight keywords
     description:
       'A minimal personal website theme built with <span class="font-medium text-foreground underline decoration-primary/30">Astro</span> and <span class="font-medium text-foreground underline decoration-primary/30">Tailwind CSS</span>.',
