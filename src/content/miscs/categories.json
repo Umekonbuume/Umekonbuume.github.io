@@ -1,5 +1,10 @@
 [
-
+ {
+    "name": "Technology",
+    "slug": "technology",
+    "description": "Articles about web development and programming",
+    "icon": "mdi:code-tags"
+  },
   {
     "name": "Thoughts",
     "slug": "thoughts",
@@ -7,9 +12,15 @@
     "icon": "mdi:thought-bubble"
   },
   {
+    "name": "Books",
+    "slug": "books",
+    "description": "読んだ本について",
+    "icon": "mdi:book-open-variant"
+  },
+  {
     "name": "Events",
     "slug": "events",
-    "description": "",
+    "description": "出来事",
     "icon": "mdi:calendar"
   },
   {
