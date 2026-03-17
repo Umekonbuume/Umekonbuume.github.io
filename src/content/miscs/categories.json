@@ -1,10 +1,5 @@
 [
-  {
-    "name": "Technology",
-    "slug": "technology",
-    "description": "Articles about web development and programming",
-    "icon": "mdi:code-tags"
-  },
+
   {
     "name": "Thoughts",
     "slug": "thoughts",
@@ -12,16 +7,16 @@
     "icon": "mdi:thought-bubble"
   },
   {
-    "name": "Design",
-    "slug": "design",
-    "description": "Thoughts on UI/UX and visual design",
-    "icon": "mdi:palette"
+    "name": "Events",
+    "slug": "events",
+    "description": "",
+    "icon": "mdi:calendar"
   },
   {
     "name": "Life",
     "slug": "life",
-    "description": "Daily life and personal reflections",
-    "icon": "mdi:coffee"
+    "description": "日常のこと",
+    "icon": "mdi:footsteps"
   },
   {
     "name": "Uncategorized",
