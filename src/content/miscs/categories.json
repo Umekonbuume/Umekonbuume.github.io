@@ -6,6 +6,12 @@
     "icon": "mdi:code-tags"
   },
   {
+    "name": "Thoughts",
+    "slug": "thoughts",
+    "description": "自分が考えていること",
+    "icon": "mdi:thought-bubble"
+  },
+  {
     "name": "Design",
     "slug": "design",
     "description": "Thoughts on UI/UX and visual design",

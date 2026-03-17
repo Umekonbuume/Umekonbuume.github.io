@@ -16,7 +16,7 @@ const site = {
   navigation: [
     { name: "Home", subtitle: "Index", href: "/" },
     { name: "Writing", subtitle: "Blog", href: "/posts" },
-    { name: "Projects", subtitle: "Works", href: "/projects" },
+    { name: "collection", subtitle: "Photo", href: "/projects" },
     { name: "Friends", subtitle: "Links", href: "/friends" },
     { name: "About", subtitle: "Me", href: "/about" },
   ],
@@ -24,6 +24,7 @@ const site = {
   // --- Social Links ---
   social: [
     { name: "GitHub", href: "https://github.com/your-username", icon: "mdi:github" },
+    { name: "Twitter", href: "https://x.com/umekonbu_333", icon: "mdi:twitter" },
     { name: "Email", href: "mailto:hello@example.com", icon: "mdi:email" },
   ],
 
@@ -34,7 +35,7 @@ const site = {
     description:
       'A minimal personal website theme built with <span class="font-medium text-foreground underline decoration-primary/30">Astro</span> and <span class="font-medium text-foreground underline decoration-primary/30">Tailwind CSS</span>.',
     cards: [
-      { icon: "mdi:explore", label: "Status", value: "Building something cool" },
+      { icon: "mdi:explore", label: "Status", value: "新しい趣味探し中" },
       { icon: "mdi:location", label: "Location", value: "Earth" },
     ],
   },
