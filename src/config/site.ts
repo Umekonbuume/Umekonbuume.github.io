@@ -2,13 +2,13 @@ const site = {
   // --- Site Metadata ---
   meta: {
     title: "Umekonbuume's Personal Site",
-    description: "A minimal Astro theme for personal websites",
+    description: "不定期日記",
     author: "Your Name",
     logo: "/logo.svg",
     ogImage: "/og-image.png",
     // HTML lang attribute, affects page language and date formatting
     // Options: "zh-CN", "en", "ja", etc.
-    lang: "en",
+    lang: "ja",
   },
 
   // --- Navigation ---
