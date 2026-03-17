@@ -17,7 +17,7 @@ const site = {
     { name: "Home", subtitle: "Index", href: "/" },
     { name: "Writing", subtitle: "Blog", href: "/posts" },
     { name: "Collection", subtitle: "Photo", href: "/projects" },
-    { name: "Friends", subtitle: "Links", href: "/friends" },
+    { name: "Categories", subtitle: "Tags", href: "/friends" },
     { name: "About", subtitle: "Me", href: "/about" },
   ],
 
@@ -99,12 +99,12 @@ const site = {
   // --- UI Labels ---
   // Customize these values to change the text displayed on pages
   labels: {
-    postsTitle: "日記",
-    postsDescription: "日々の記録や考えを綴る場所。",
-    projectsTitle: "写真",
-    projectsDescription: "撮れた良い写真を共有する場所。",
-    friendsTitle: "ーー",
-    friendsDescription: "Like-minded folks around the web.",
+    WritingTitle: "日記",
+    WritingDescription: "日々の記録や考えを綴る場所。",
+    CollectionTitle: "写真",
+    CollectionDescription: "撮れた良い写真を共有する場所。",
+    CategoriesTitle: "Categories & Tags",
+    CategoriesDescription: "",
     toolsTitle: "Stack",
     aboutTitle: "About",
     aboutDescription: "About this site and its author",
