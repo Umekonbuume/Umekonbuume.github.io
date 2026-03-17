@@ -99,12 +99,12 @@ const site = {
   // --- UI Labels ---
   // Customize these values to change the text displayed on pages
   labels: {
-    WritingTitle: "日記",
-    WritingDescription: "日々の記録や考えを綴る場所。",
-    CollectionTitle: "写真",
-    CollectionDescription: "撮れた良い写真を共有する場所。",
-    CategoriesTitle: "Categories & Tags",
-    CategoriesDescription: "",
+    postsTitle: "日記",
+    postsDescription: "日々の記録や考えを綴る場所。",
+    projectsTitle: "写真",
+    projectsDescription: "撮れた良い写真を共有する場所。",
+    friendsTitle: "Categories & Tags",
+    friendsDescription: "",
     toolsTitle: "Stack",
     aboutTitle: "About",
     aboutDescription: "About this site and its author",
